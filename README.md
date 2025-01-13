@@ -98,7 +98,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 3. Go to your user dashboard and create a new public repository(named text_web_content_authoring), . Experiment with the features within that repository to familiarize yourself with them. Then putt the link to the repository & the bottom of your profile README.
 
-# Finally, Open a pull request and let me(your teacher) know that you’ve finished reading through the above note and complete all the tasks bellow committing your changes to your branch. 
+### Finally, Open a pull request and let me(your teacher) know that you’ve finished reading through the above note and complete all the tasks bellow committing your changes to your branch. 
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
